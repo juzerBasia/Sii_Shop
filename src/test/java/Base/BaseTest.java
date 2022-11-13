@@ -19,6 +19,7 @@ public class BaseTest  {
 
     @BeforeEach
     void setUpDriver() {
+        //FEATURE TOGGLE***
         driver = driverFactory.getDriver("chrome");//"kurier przynosi nam paczke z driverem, musimy ja odebrac dlatego przypisjemy do drivera, i ten driver jest protected"
         log.info("WebDriver started successfully");
     }

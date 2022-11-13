@@ -1,6 +1,7 @@
 package SiiShop;
 
 import Base.BaseTest;
+import Pages.HomePage;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
@@ -41,7 +42,7 @@ public class SiiShopTest extends BaseTest {
     }
 
     @Test
-    public void loginToWpPl() throws InterruptedException {
+    public void loginToWpPl() {
         String url = "http://wp.pl";
         log.info("url naszej aplikacji to: " + url);
 
@@ -51,4 +52,18 @@ public class SiiShopTest extends BaseTest {
         String expectedTitle = "Wirtualna Polska";
         assertThat(actualTitle).contains(expectedTitle);
     }
+
+/*    @Test
+    public void loanTest(){
+        HomePage homePage = new HomePage();
+        homePage.loginAsRegisteredUser();
+        homePage.navigateToLoanForm();
+        homePage.fillFirstName();
+        homePage.fillLastName();
+        homePage.fillLoanAmount();
+        homePage.submitLoanForm();
+        String message = homePage.takeConfirmationMessage();
+        assertThat(message).isEqualTo(expectedMessage);
+
+    }*/
 }

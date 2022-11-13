@@ -1,7 +1,11 @@
 package Pages;
 
+import org.openqa.selenium.support.PageFactory;
+
 public class HomePage {
-    ///webElement
+    //PageFactory
+    //webElement
+
     //PageFactory
     //operacje na webElementach
 
