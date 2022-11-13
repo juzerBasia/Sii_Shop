@@ -1,0 +1,6 @@
+632 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://146.59.32.4/index.php
+641 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+1925 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+1985 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+8591 [main] INFO  SiiShop.SiiShopTest - **********Test passed**********
+10843 [main] INFO  SiiShop.SiiShopTest - Driver was closed properly

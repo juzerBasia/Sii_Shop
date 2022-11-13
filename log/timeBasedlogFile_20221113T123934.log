@@ -1,0 +1,23 @@
+591 [main] INFO  SiiShop.SiiShopTest - Start database
+1827 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+1902 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+5200 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://pudelek.pl/
+5201 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+7234 [main] INFO  SiiShop.SiiShopTest - Current title is: Pudelek.pl - Plotki, Gwiazdy, Sensacja - Pudelek
+7243 [main] INFO  SiiShop.SiiShopTest - * * * * * * * * * * Test passed* * * * * * * * * * 
+7525 [main] INFO  SiiShop.SiiShopTest - Driver was closed properly
+7565 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+7583 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+8791 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://wp.pl
+8792 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+10822 [main] INFO  SiiShop.SiiShopTest - Current title is: Wirtualna Polska - Wszystko co ważne - www.wp.pl
+10824 [main] INFO  SiiShop.SiiShopTest - * * * * * * * * * * Test passed* * * * * * * * * * 
+11069 [main] INFO  SiiShop.SiiShopTest - Driver was closed properly
+11110 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+11144 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+12416 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://146.59.32.4/index.php
+12417 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+13862 [main] INFO  SiiShop.SiiShopTest - Current title is: TesterSii
+14017 [main] INFO  SiiShop.SiiShopTest - * * * * * * * * * * Test passed* * * * * * * * * * 
+14386 [main] INFO  SiiShop.SiiShopTest - Driver was closed properly
+14400 [main] INFO  SiiShop.SiiShopTest - Database connection closed

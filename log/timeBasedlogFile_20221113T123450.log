@@ -1,0 +1,13 @@
+10687 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://wp.pl
+10783 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+13607 [main] INFO  SiiShop.SiiShopTest - Current title is: Wirtualna Polska - Wszystko co ważne - www.wp.pl
+13609 [main] INFO  SiiShop.SiiShopTest - * * * * * * * * * * Test passed* * * * * * * * * * 
+14076 [main] INFO  SiiShop.SiiShopTest - Driver was closed properly
+14128 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+14150 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+15249 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://146.59.32.4/index.php
+15250 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+16553 [main] INFO  SiiShop.SiiShopTest - Current title is: TesterSii
+16554 [main] INFO  SiiShop.SiiShopTest - * * * * * * * * * * Test passed* * * * * * * * * * 
+16726 [main] INFO  SiiShop.SiiShopTest - Driver was closed properly
+16733 [main] INFO  SiiShop.SiiShopTest - Database connection closed

@@ -1,0 +1,10 @@
+9146 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: https://www.pudelek.pl/
+9185 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+11835 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+11948 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+17055 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: https://wp.pl
+17058 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+19226 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+19291 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+22906 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://146.59.32.4/index.php
+22907 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome

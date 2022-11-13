@@ -1,0 +1,18 @@
+2134 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2270 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+7411 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: https://www.pudelek.pl/
+7412 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+9684 [main] INFO  SiiShop.SiiShopTest - **********Test passed**********
+11806 [main] INFO  SiiShop.SiiShopTest - Driver was closed properly
+11872 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+11888 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+14183 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: https://wp.pl
+14184 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+16368 [main] INFO  SiiShop.SiiShopTest - **********Test passed**********
+18535 [main] INFO  SiiShop.SiiShopTest - Driver was closed properly
+18623 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+18647 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+20954 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://146.59.32.4/index.php
+20955 [main] INFO  SiiShop.SiiShopTest - Przegladarka: chrome
+22659 [main] INFO  SiiShop.SiiShopTest - **********Test passed**********
+23950 [main] INFO  SiiShop.SiiShopTest - Driver was closed properly
