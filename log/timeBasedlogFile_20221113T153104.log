@@ -1,0 +1,17 @@
+630 [main] INFO  Factory.DriverFactory - Browser = firefox
+2125 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+2215 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Basia\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+11164 [main] INFO  Base.BaseTest - WebDriver started successfully
+11179 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://pudelek.pl/
+14602 [main] INFO  SiiShop.SiiShopTest - Current title is: Pudelek.pl - Plotki, Gwiazdy, Sensacja - Pudelek
+18838 [main] INFO  Base.BaseTest - Driver was closed properly
+18863 [main] INFO  Factory.DriverFactory - Browser = firefox
+18908 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+18940 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Basia\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+27306 [main] INFO  Base.BaseTest - WebDriver started successfully
+27308 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://wp.pl
+31530 [main] INFO  SiiShop.SiiShopTest - Current title is: Wirtualna Polska - Wszystko co ważne - www.wp.pl
+34593 [main] INFO  Base.BaseTest - Driver was closed properly
+34614 [main] INFO  Factory.DriverFactory - Browser = firefox
+34682 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+34728 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Basia\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe

@@ -1,0 +1,18 @@
+658 [main] INFO  Factory.DriverFactory - Browser = chrome
+3543 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+3590 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+7440 [main] INFO  Base.BaseTest - WebDriver started successfully
+7445 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://pudelek.pl/
+7793 [main] INFO  Base.BaseTest - Driver was closed properly
+7848 [main] INFO  Factory.DriverFactory - Browser = chrome
+7884 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+7949 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+9358 [main] INFO  Base.BaseTest - WebDriver started successfully
+9360 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://wp.pl
+9720 [main] INFO  Base.BaseTest - Driver was closed properly
+9734 [main] INFO  Factory.DriverFactory - Browser = chrome
+9774 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+9840 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Basia\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+11073 [main] INFO  Base.BaseTest - WebDriver started successfully
+11075 [main] INFO  SiiShop.SiiShopTest - url naszej aplikacji to: http://146.59.32.4/index.php
+11263 [main] INFO  Base.BaseTest - Driver was closed properly

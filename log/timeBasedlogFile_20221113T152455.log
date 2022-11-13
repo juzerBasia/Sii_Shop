@@ -1,0 +1,8 @@
+5926 [main] INFO  i.g.b.wdm.online.Downloader - Extracting driver from compressed file geckodriver-v0.32.0-win64.zip
+6118 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Basia\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+21228 [main] INFO  Factory.DriverFactory - Browser = firefox
+21609 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+21648 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Basia\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+33118 [main] INFO  Factory.DriverFactory - Browser = firefox
+33146 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+33160 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\Basia\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
